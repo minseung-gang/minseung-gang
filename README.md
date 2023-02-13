@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **minseung-gang/minseung-gang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...<img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
 -->
+<div align="center"> 
+  
+
+</div>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=#ffffff"/></a>
+<div align="center">
+
+ ### 📚 Tech Stack 📚 
+  
+ #### Platforms & Languages
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=minseung-gang&show_icons=true&theme=tokyonight"/>
+</div>
