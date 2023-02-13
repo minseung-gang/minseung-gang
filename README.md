@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
 -->
-<div align="center"> 
-  
 
-</div>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=#ffffff"/></a>
+
 <div align="center">
-
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=#ffffff"/></a>
  ### 📚 Tech Stack 📚 
   
  #### Platforms & Languages
