@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
  
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=#ffffff"/></a>
+
  
  ### 📚 Tech Stack 📚 
  <div>
@@ -32,7 +32,9 @@ Here are some ideas to get you started:
  
 </div>
 
- #### Platforms & Languages
-  
+ ### 📪 Contacts
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=#ffffff"/></a>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qnfryfkrh1@gmail.com)](mailto:qnfryfkrh1@gmail.com)
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=minseung-gang&show_icons=true&theme=tokyonight"/>
 </div>
