@@ -39,6 +39,6 @@ Here are some ideas to get you started:
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qnfryfkrh1@gmail.com)](mailto:qnfryfkrh1@gmail.com)
  
  <br/>
- 
+ <div>
   <img src="https://github-readme-stats.vercel.app/api?username=minseung-gang&show_icons=true&theme=tokyonight"/>
 </div>
