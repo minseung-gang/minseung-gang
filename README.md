@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 
  
- ### 📚 Tech Stack 📚 
+ ## 📚 Tech Stack 📚 
  <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  
 </div>
 
- ### 📪 Contacts
+ ## 📪 Contacts
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=#ffffff"/></a>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qnfryfkrh1@gmail.com)](mailto:qnfryfkrh1@gmail.com)
  
