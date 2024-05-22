@@ -20,6 +20,8 @@ Here are some ideas to get you started:
  
  
  ### 📚 Tech Stack 📚 
+
+ #### FrontEnd
  <div>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -29,14 +31,15 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styledComponents&logoColor=white">
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
- 
+ </div>
+<br/>
 
-
- 
-  
+#### BackEnd
+<div>
+  <img src="https://img.shields.io/badge/nodedotjs-#5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/express-#000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql&logoColor=black">
 </div>
-
-
 <br/>
   
  ### 📪 Contacts
