@@ -40,6 +40,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black">
 </div>
+<div>
+   <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
+   <img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=black">
+   <img src="https://img.shields.io/badge/nginx-#009639?style=for-the-badge&logo=nginx&logoColor=black">
+</div>
 <br/>
   
  ### 📪 Contacts
