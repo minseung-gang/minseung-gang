@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <div>
    <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
    <img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=black">
-   <img src="https://img.shields.io/badge/nginx-#009639?style=for-the-badge&logo=nginx&logoColor=black">
+   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=black">
 </div>
 <br/>
   
